@@ -24,6 +24,8 @@
   ![KaliLinux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
   ![PentTest](https://img.shields.io/badge/PenTest-000000?style=for-the-badge&logo=pentest&logoColor=black)
   ![HackerEtico](https://img.shields.io/badge/Hacker_Ético-696969?style=for-the-badge)
+  ![SQLInjection](https://img.shields.io/badge/SQL_Injection-000000?style=for-the-badge)
+  ![XSS](https://img.shields.io/badge/XSS-000000?style=for-the-badge)
   
 
 **Ferramentas de Desenvolvimento**
