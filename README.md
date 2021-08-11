@@ -38,6 +38,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Eliel](https://img.shields.io/badge/-Eliel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/eliel-souza-6b5919190)](www.linkedin.com/in/eliel-souza-6b5919190)
+[![Linkedin: Eliel](https://img.shields.io/badge/-Eliel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliel-souza-6b5919190)](www.linkedin.com/in/eliel-souza-6b5919190)
 [![Gmail Badge](https://img.shields.io/badge/-elielnnsouza@gmail.com-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elielnnsouza@gmail.com)](mailto:elielnnsouza@gmail.com)
 [![GitHub ElielN]( https://img.shields.io/github/followers/ElielN?label=follow&style=social)](https://github.com/ElielN)
