@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Sempre buscando aprender novas tecnologias.
 - 🎓 &nbsp; Estudando **Ciência da Computação** na <a href="https://www.ufv.br/">Universidade Federal de Viçosa</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **programação mobile (Flutter)**.
+- 🌱 &nbsp; Aprendendo mais sobre **programação mobile (Flutter) e React**.
 - 🔭 &nbsp; **Pentest** é meu hobby atualmente.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
