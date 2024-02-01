@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">For over 3 years, I've been diving deeper into web development, particularly focusing on the Front-end. I enjoy crafting dynamic, beautiful interfaces that provide a great user experience through animations, micro-interactions, and transitions.</p>
+<p align="center">For over 3 years, I've been diving deeper into web development, particularly focusing on the Front-end. I enjoy making dynamic, beautiful interfaces that provide a great user experience through animations, micro-interactions, and transitions.</p>
 
 ###
 
