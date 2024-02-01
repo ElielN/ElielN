@@ -14,7 +14,7 @@
 
 ###
 
-<p align="center">Follow me here to expand our network and exchange knowledge. Also, connect with me on LinkedIn!</p>
+<p align="center">Follow me here to expand our network and exchange knowledge. Also, connect with me on LinkedIn (link in bio)!</p>
 
 ###
 
